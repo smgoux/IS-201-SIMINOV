@@ -1,0 +1,44 @@
+.footer {
+    bottom: 5px;
+    height: 50px;
+    left: 5px;
+    right: 5px;
+    font-size: 15px;
+    color: #0c0841;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.mainbody {
+    top: 114px;
+    bottom: 64px;
+    left: 114px;
+    right: 114px;
+    padding-right: 5px;
+    z-index:2;
+}
+
+
+.header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 20px;
+    text-align:left;
+    text-decoration-color: rgb(4, 19, 66);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    z-index: 1;
+}
+
+.justify{
+    text-align: justify;
+}
+
+.homebg{background-color: #d8cae6 ;
+    }
+
+.tabfont {
+    font-size: 80px;
+    text-decoration: underline;
+    color:rgb(22, 36, 80);
+}
